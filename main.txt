@@ -1,42 +1,13 @@
 heloo guys
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-
 Sai
-=======
-<<<<<<< HEAD
-
 hello guys, I am Naveen..
-=======
 Iam Gouthami
 Vijetha v k ahhriuhj
->>>>>>> 8b5bd340b13d16888c92cbd71f41e597a4de4454
->>>>>>> 65c1d6fe821aab98427639dd82ec09b94360c44a
-=======
-<<<<<<< HEAD
 Srikanth boya
-=======
 Iam Gouthami
->>>>>>> 2752a9ec80c5735e03174aef2b7d20e0aabc86f8
->>>>>>> 80a6837da31eb2e09bb581e5e241f6a823b5490e
-<<<<<<< HEAD
-
 edited by sai
-=======
-<<<<<<< HEAD
-=======
 This is Abhigna Abhi
->>>>>>> 8b5bd340b13d16888c92cbd71f41e597a4de4454
-
-
 Thi is Navanishwara RAO
->>>>>>> 65c1d6fe821aab98427639dd82ec09b94360c44a
+This is bhumi
+
+
